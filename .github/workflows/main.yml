@@ -30,3 +30,4 @@ jobs:
 
       - name: Executar os testes
         run: npx cypress run
+
